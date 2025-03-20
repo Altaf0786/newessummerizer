@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List
 from utils import get_article_links, analyze_articles, extract_topic_name, compare_articles
@@ -10,6 +11,15 @@ app = FastAPI(
     title="News Summarization and Comparison API",
     description="Analyze articles based on query and compare article summaries.",
     version="1.0.0"
+)
+
+# Enable CORS (Allow all origins for now; specify domains in production)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # For security, change this to specific frontend domains in production
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 # Request model for /analyze endpoint
