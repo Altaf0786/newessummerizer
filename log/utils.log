@@ -14,3 +14,667 @@
 2025-03-20 09:13:50,403 - utils log - INFO - Summarization pipeline loaded successfully.
 2025-03-20 09:17:22,959 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
 2025-03-20 09:17:29,721 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 10:47:26,514 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 10:47:34,047 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 10:58:22,653 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 10:58:29,680 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:11:46,431 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:11:55,355 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:12:05,349 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:12:13,254 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:12:22,537 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:12:29,951 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:12:38,837 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:12:46,514 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:12:55,707 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:13:01,335 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:13:37,375 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:13:44,462 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:15:29,569 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:15:36,504 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:16:56,367 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:17:03,153 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:17:12,386 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:17:18,673 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:18:39,104 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:18:46,511 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:18:56,129 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:19:02,834 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:19:11,748 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:19:17,537 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:19:26,360 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:19:31,998 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:46:08,808 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:46:17,680 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:46:27,695 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:46:34,169 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:46:43,577 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:46:50,825 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:47:00,622 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:47:06,955 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 12:47:16,558 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 12:47:22,167 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 13:14:55,846 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 13:15:03,725 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 13:15:13,358 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 13:15:19,997 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 13:16:48,870 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 13:16:55,896 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 13:18:01,476 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 13:18:09,609 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 13:18:20,235 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 13:18:26,876 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 13:18:36,592 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 13:18:42,577 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 13:19:58,451 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 13:20:05,677 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 13:20:38,112 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 13:20:45,424 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 13:20:55,508 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-20 13:21:02,413 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-20 14:07:05,500 - utils log - INFO - Extracting topic name from input: tesla
+2025-03-20 14:07:05,501 - utils log - INFO - Sanitized topic name: tesla
+2025-03-20 14:07:12,735 - utils log - INFO - Starting article link extraction for: tesla
+2025-03-20 14:07:12,736 - utils log - INFO - Performing topic-based search for 'tesla' from page 1 to 2.
+2025-03-20 14:07:13,456 - utils log - INFO - Page 1: Found 8 articles.
+2025-03-20 14:07:13,908 - utils log - INFO - Page 2: Found 8 articles.
+2025-03-20 14:07:13,909 - utils log - INFO - Article collection complete. Found 16 articles.
+2025-03-20 14:07:13,910 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cp8vd0j5zk2o
+2025-03-20 14:07:14,227 - utils log - INFO - Scraped article: 'Vehicles damaged at Belfast Tesla dealership' (Published: 17 March 2025)
+2025-03-20 14:07:14,233 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:07:14,233 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:07:14,233 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c201z4lv5xxo
+2025-03-20 14:07:14,564 - utils log - INFO - Scraped article: 'Musk's Tesla raises concern over Trump tariffs' (Published: 14 March 2025)
+2025-03-20 14:07:14,566 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:07:14,567 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:07:14,567 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cwyvql6g9xxo
+2025-03-20 14:07:14,942 - utils log - INFO - Scraped article: 'US probing Elon Musk's Tesla over self-driving systems' (Published: 19 October 2024)
+2025-03-20 14:07:14,944 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:07:14,944 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:07:14,944 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cd0en9mn8mko
+2025-03-20 14:07:15,272 - utils log - INFO - Scraped article: 'Elon Musk's Tesla lobbied UK to charge petrol drivers more' (Published: 11 December 2024)
+2025-03-20 14:07:15,274 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:07:15,274 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:07:15,275 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c5yr90lmjpno
+2025-03-20 14:07:15,561 - utils log - INFO - Scraped article: 'VW launches $5.8bn tie-up with Tesla rival Rivian' (Published: 13 November 2024)
+2025-03-20 14:07:15,563 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:07:15,563 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:07:15,563 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cvgm21zjggro
+2025-03-20 14:07:15,847 - utils log - INFO - Scraped article: 'Scattered anti-Musk protests target Tesla dealerships' (Published: 15 February 2025)
+2025-03-20 14:07:15,850 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:07:15,850 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:07:15,850 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cz0lldd30xlo
+2025-03-20 14:07:16,161 - utils log - INFO - Scraped article: 'Driver stopped in Tesla Cybertruck banned in UK' (Published: 17 January 2025)
+2025-03-20 14:07:16,163 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:07:16,163 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:07:16,164 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c36edjp1l9ko
+2025-03-20 14:07:16,528 - utils log - INFO - Scraped article: 'Tesla sales stall as China's BYD closes in' (Published: 2 January 2025)
+2025-03-20 14:07:16,530 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:07:16,531 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:07:16,531 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c4gm9j11mvdo
+2025-03-20 14:07:16,841 - utils log - INFO - Scraped article: 'China's BYD overtakes Tesla revenue for first time' (Published: 31 October 2024)
+2025-03-20 14:07:16,843 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:07:16,843 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:07:16,843 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cnvze9dzq8vo
+2025-03-20 14:07:17,467 - utils log - INFO - Scraped article: 'Musk's Tesla facilities in US face 'Takedown' protests' (Published: 10 March 2025)
+2025-03-20 14:07:17,469 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:07:17,470 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:07:17,470 - utils log - INFO - Saving analysis results for 'tesla'...
+2025-03-20 14:07:17,473 - utils log - INFO -  Results saved at: /Users/mdaltafshekh/newssummerizer/results/tesla_summary.json
+2025-03-20 14:07:17,473 - utils log - INFO - Generating Hindi TTS audio for: results/tesla_sentiment_hindi.mp3
+2025-03-20 14:07:18,839 - utils log - INFO -  Hindi audio saved at /Users/mdaltafshekh/newssummerizer/results/tesla_sentiment_hindi.mp3
+2025-03-20 14:08:03,992 - utils log - INFO - Extracting topic name from input: tesla
+2025-03-20 14:08:03,993 - utils log - INFO - Sanitized topic name: tesla
+2025-03-20 14:08:10,904 - utils log - INFO - Starting article link extraction for: tesla
+2025-03-20 14:08:10,905 - utils log - INFO - Performing topic-based search for 'tesla' from page 1 to 2.
+2025-03-20 14:08:11,490 - utils log - INFO - Page 1: Found 8 articles.
+2025-03-20 14:08:12,006 - utils log - INFO - Page 2: Found 8 articles.
+2025-03-20 14:08:12,006 - utils log - INFO - Article collection complete. Found 16 articles.
+2025-03-20 14:08:12,007 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c1elw2qppxvo
+2025-03-20 14:08:12,343 - utils log - INFO - Scraped article: 'US launches probe of Tesla's 'smart summon' driverless tech' (Published: 7 January 2025)
+2025-03-20 14:08:12,345 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:08:12,346 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:08:12,346 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c36edjp1l9ko
+2025-03-20 14:08:12,685 - utils log - INFO - Scraped article: 'Tesla sales stall as China's BYD closes in' (Published: 2 January 2025)
+2025-03-20 14:08:12,687 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:08:12,687 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:08:12,687 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/crkn28dpl4no
+2025-03-20 14:08:12,968 - utils log - INFO - Scraped article: 'Can Tesla's EVs win over India's price-conscious buyers?' (Published: 4 March 2025)
+2025-03-20 14:08:12,970 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:08:12,970 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:08:12,970 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c201z4lv5xxo
+2025-03-20 14:08:13,391 - utils log - INFO - Scraped article: 'Musk's Tesla raises concern over Trump tariffs' (Published: 14 March 2025)
+2025-03-20 14:08:13,393 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:08:13,393 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:08:13,393 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cz0lldd30xlo
+2025-03-20 14:08:13,781 - utils log - INFO - Scraped article: 'Driver stopped in Tesla Cybertruck banned in UK' (Published: 17 January 2025)
+2025-03-20 14:08:13,783 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:08:13,783 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:08:13,783 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cp8vd0j5zk2o
+2025-03-20 14:08:14,169 - utils log - INFO - Scraped article: 'Vehicles damaged at Belfast Tesla dealership' (Published: 17 March 2025)
+2025-03-20 14:08:14,170 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:08:14,171 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:08:14,171 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cd0en9mn8mko
+2025-03-20 14:08:14,463 - utils log - INFO - Scraped article: 'Elon Musk's Tesla lobbied UK to charge petrol drivers more' (Published: 11 December 2024)
+2025-03-20 14:08:14,464 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:08:14,464 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:08:14,465 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cwyvql6g9xxo
+2025-03-20 14:08:14,801 - utils log - INFO - Scraped article: 'US probing Elon Musk's Tesla over self-driving systems' (Published: 19 October 2024)
+2025-03-20 14:08:14,802 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:08:14,803 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:08:14,803 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cvgm21zjggro
+2025-03-20 14:08:15,118 - utils log - INFO - Scraped article: 'Scattered anti-Musk protests target Tesla dealerships' (Published: 15 February 2025)
+2025-03-20 14:08:15,120 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:08:15,120 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:08:15,120 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c5yr90lmjpno
+2025-03-20 14:08:15,355 - utils log - INFO - Scraped article: 'VW launches $5.8bn tie-up with Tesla rival Rivian' (Published: 13 November 2024)
+2025-03-20 14:08:15,356 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:08:15,356 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:08:15,357 - utils log - INFO - Saving analysis results for 'tesla'...
+2025-03-20 14:08:15,357 - utils log - INFO -  Results saved at: /Users/mdaltafshekh/newssummerizer/results/tesla_summary.json
+2025-03-20 14:08:15,358 - utils log - INFO - Generating Hindi TTS audio for: results/tesla_sentiment_hindi.mp3
+2025-03-20 14:08:15,944 - utils log - INFO -  Hindi audio saved at /Users/mdaltafshekh/newssummerizer/results/tesla_sentiment_hindi.mp3
+2025-03-20 14:11:03,685 - utils log - INFO - Extracting topic name from input: tesla
+2025-03-20 14:11:03,687 - utils log - INFO - Sanitized topic name: tesla
+2025-03-20 14:11:13,421 - utils log - INFO - Starting article link extraction for: tesla
+2025-03-20 14:11:13,422 - utils log - INFO - Performing topic-based search for 'tesla' from page 1 to 2.
+2025-03-20 14:11:14,383 - utils log - INFO - Page 1: Found 8 articles.
+2025-03-20 14:11:14,838 - utils log - INFO - Page 2: Found 8 articles.
+2025-03-20 14:11:14,839 - utils log - INFO - Article collection complete. Found 16 articles.
+2025-03-20 14:11:14,844 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cvgd9v3r69qo
+2025-03-20 14:11:15,200 - utils log - INFO - Scraped article: 'Tesla shares slump after European sales fall' (Published: 25 February 2025)
+2025-03-20 14:11:15,203 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:11:15,203 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:11:15,203 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c5yr90lmjpno
+2025-03-20 14:11:15,504 - utils log - INFO - Scraped article: 'VW launches $5.8bn tie-up with Tesla rival Rivian' (Published: 13 November 2024)
+2025-03-20 14:11:15,506 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:11:15,506 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:11:15,506 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cz61vwjel2zo
+2025-03-20 14:11:15,801 - utils log - INFO - Scraped article: 'Tesla's challenges run deeper than 'toxic' controversy around Elon Musk' (Published: 8 hours ago)
+2025-03-20 14:11:15,804 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:11:15,804 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:11:15,804 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cwyvql6g9xxo
+2025-03-20 14:11:16,111 - utils log - INFO - Scraped article: 'US probing Elon Musk's Tesla over self-driving systems' (Published: 19 October 2024)
+2025-03-20 14:11:16,113 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:11:16,113 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:11:16,113 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c36edjp1l9ko
+2025-03-20 14:11:16,429 - utils log - INFO - Scraped article: 'Tesla sales stall as China's BYD closes in' (Published: 2 January 2025)
+2025-03-20 14:11:16,431 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:11:16,431 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:11:16,432 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/crkn28dpl4no
+2025-03-20 14:11:16,729 - utils log - INFO - Scraped article: 'Can Tesla's EVs win over India's price-conscious buyers?' (Published: 4 March 2025)
+2025-03-20 14:11:16,730 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:11:16,731 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:11:16,731 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/czr7kggvzmmo
+2025-03-20 14:11:17,117 - utils log - INFO - Scraped article: 'Why Tesla, crypto and prisons are Trump trade winners' (Published: 12 November 2024)
+2025-03-20 14:11:17,119 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:11:17,119 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:11:17,119 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c4gm9j11mvdo
+2025-03-20 14:11:17,404 - utils log - INFO - Scraped article: 'China's BYD overtakes Tesla revenue for first time' (Published: 31 October 2024)
+2025-03-20 14:11:17,406 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:11:17,406 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:11:17,406 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c1elw2qppxvo
+2025-03-20 14:11:17,770 - utils log - INFO - Scraped article: 'US launches probe of Tesla's 'smart summon' driverless tech' (Published: 7 January 2025)
+2025-03-20 14:11:17,772 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:11:17,773 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:11:17,773 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c201z4lv5xxo
+2025-03-20 14:11:18,047 - utils log - INFO - Scraped article: 'Musk's Tesla raises concern over Trump tariffs' (Published: 14 March 2025)
+2025-03-20 14:11:18,049 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:11:18,049 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:11:18,050 - utils log - INFO - Saving analysis results for 'tesla'...
+2025-03-20 14:11:18,050 - utils log - INFO -  Results saved at: /Users/mdaltafshekh/newssummerizer/results/tesla_summary.json
+2025-03-20 14:11:18,051 - utils log - INFO - Generating Hindi TTS audio for: results/tesla_sentiment_hindi.mp3
+2025-03-20 14:11:18,614 - utils log - INFO -  Hindi audio saved at /Users/mdaltafshekh/newssummerizer/results/tesla_sentiment_hindi.mp3
+2025-03-20 14:12:51,254 - utils log - INFO - Extracting topic name from input: apple
+2025-03-20 14:12:51,257 - utils log - INFO - Sanitized topic name: apple
+2025-03-20 14:12:58,262 - utils log - INFO - Starting article link extraction for: apple
+2025-03-20 14:12:58,263 - utils log - INFO - Performing topic-based search for 'apple' from page 1 to 2.
+2025-03-20 14:12:59,381 - utils log - INFO - Page 1: Found 5 articles.
+2025-03-20 14:13:00,162 - utils log - INFO - Page 2: Found 7 articles.
+2025-03-20 14:13:00,163 - utils log - INFO - Article collection complete. Found 12 articles.
+2025-03-20 14:13:00,165 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c8rkpv50x01o
+2025-03-20 14:13:00,762 - utils log - INFO - Scraped article: 'Apple takes legal action in UK data privacy row' (Published: 4 March 2025)
+2025-03-20 14:13:00,764 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:13:00,764 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:13:00,764 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c0l1kpz3w32o
+2025-03-20 14:13:01,567 - utils log - INFO - Scraped article: 'Grandmother gets X-rated message after Apple AI fail' (Published: 7 March 2025)
+2025-03-20 14:13:01,569 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:13:01,569 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:13:01,569 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/ce980m2xv30o
+2025-03-20 14:13:02,331 - utils log - INFO - Scraped article: 'Apple commits to $500bn US investment' (Published: 24 February 2025)
+2025-03-20 14:13:02,333 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:13:02,334 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:13:02,334 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c798xv5qwylo
+2025-03-20 14:13:02,951 - utils log - INFO - Scraped article: 'Secret hearing on Friday in Apple and UK government data row' (Published: 12 March 2025)
+2025-03-20 14:13:02,953 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:13:02,954 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:13:02,954 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c5ymvjjqzmeo
+2025-03-20 14:13:03,929 - utils log - INFO - Scraped article: 'Apple AI tool transcribed the word 'racist' as 'Trump'' (Published: 26 February 2025)
+2025-03-20 14:13:03,930 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:13:03,931 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:13:03,931 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/clyjv8e49deo
+2025-03-20 14:13:05,041 - utils log - INFO - Scraped article: 'Apple boss says its DEI programmes may change' (Published: 25 February 2025)
+2025-03-20 14:13:05,043 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:13:05,043 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:13:05,043 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c1kjmddx2nzo
+2025-03-20 14:13:05,770 - utils log - INFO - Scraped article: 'US intelligence head 'not told' about UK's secret Apple data demand' (Published: 26 February 2025)
+2025-03-20 14:13:05,772 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:13:05,772 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:13:05,773 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c9vy0m8ggz3o
+2025-03-20 14:13:06,349 - utils log - INFO - Scraped article: 'Apple encrypted data row hearing begins in secret' (Published: 14 March 2025)
+2025-03-20 14:13:06,351 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:13:06,351 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:13:06,352 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cgj54eq4vejo
+2025-03-20 14:13:07,114 - utils log - INFO - Scraped article: 'Apple pulls data protection tool after UK government security row' (Published: 21 February 2025)
+2025-03-20 14:13:07,116 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:13:07,116 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:13:07,116 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cn524lx9445o
+2025-03-20 14:13:07,819 - utils log - INFO - Scraped article: 'What Apple pulling Advanced Data Protection means for you' (Published: 26 February 2025)
+2025-03-20 14:13:07,821 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:13:07,821 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:13:07,822 - utils log - INFO - Saving analysis results for 'apple'...
+2025-03-20 14:13:07,823 - utils log - INFO -  Results saved at: /Users/mdaltafshekh/newssummerizer/results/apple_summary.json
+2025-03-20 14:13:07,823 - utils log - INFO - Generating Hindi TTS audio for: results/apple_sentiment_hindi.mp3
+2025-03-20 14:13:08,386 - utils log - INFO -  Hindi audio saved at /Users/mdaltafshekh/newssummerizer/results/apple_sentiment_hindi.mp3
+2025-03-20 14:14:51,608 - utils log - INFO - Extracting topic name from input: tesla
+2025-03-20 14:14:51,610 - utils log - INFO - Sanitized topic name: tesla
+2025-03-20 14:14:55,372 - utils log - INFO - Starting article link extraction for: tesla
+2025-03-20 14:14:55,372 - utils log - INFO - Performing topic-based search for 'tesla' from page 1 to 2.
+2025-03-20 14:14:56,252 - utils log - INFO - Page 1: Found 8 articles.
+2025-03-20 14:14:57,616 - utils log - INFO - Page 2: Found 8 articles.
+2025-03-20 14:14:57,616 - utils log - INFO - Article collection complete. Found 16 articles.
+2025-03-20 14:14:57,618 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cnvze9dzq8vo
+2025-03-20 14:14:58,221 - utils log - INFO - Scraped article: 'Musk's Tesla facilities in US face 'Takedown' protests' (Published: 10 March 2025)
+2025-03-20 14:14:58,223 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:14:58,223 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:14:58,223 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c5yr90lmjpno
+2025-03-20 14:14:58,749 - utils log - INFO - Scraped article: 'VW launches $5.8bn tie-up with Tesla rival Rivian' (Published: 13 November 2024)
+2025-03-20 14:14:58,750 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:14:58,750 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:14:58,751 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/czr7kggvzmmo
+2025-03-20 14:14:59,488 - utils log - INFO - Scraped article: 'Why Tesla, crypto and prisons are Trump trade winners' (Published: 12 November 2024)
+2025-03-20 14:14:59,491 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:14:59,491 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:14:59,491 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c4gm9j11mvdo
+2025-03-20 14:14:59,982 - utils log - INFO - Scraped article: 'China's BYD overtakes Tesla revenue for first time' (Published: 31 October 2024)
+2025-03-20 14:14:59,984 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:14:59,984 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:14:59,984 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cvgd9v3r69qo
+2025-03-20 14:15:00,567 - utils log - INFO - Scraped article: 'Tesla shares slump after European sales fall' (Published: 25 February 2025)
+2025-03-20 14:15:00,569 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:15:00,569 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:15:00,569 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c201z4lv5xxo
+2025-03-20 14:15:01,355 - utils log - INFO - Scraped article: 'Musk's Tesla raises concern over Trump tariffs' (Published: 14 March 2025)
+2025-03-20 14:15:01,356 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:15:01,356 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:15:01,357 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cz61vwjel2zo
+2025-03-20 14:15:01,940 - utils log - INFO - Scraped article: 'Tesla's challenges run deeper than 'toxic' controversy around Elon Musk' (Published: 8 hours ago)
+2025-03-20 14:15:01,942 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:15:01,942 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:15:01,942 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cd0en9mn8mko
+2025-03-20 14:15:02,340 - utils log - INFO - Scraped article: 'Elon Musk's Tesla lobbied UK to charge petrol drivers more' (Published: 11 December 2024)
+2025-03-20 14:15:02,342 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:15:02,342 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:15:02,342 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cz0lldd30xlo
+2025-03-20 14:15:02,767 - utils log - INFO - Scraped article: 'Driver stopped in Tesla Cybertruck banned in UK' (Published: 17 January 2025)
+2025-03-20 14:15:02,769 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:15:02,769 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:15:02,769 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/crkn28dpl4no
+2025-03-20 14:15:03,316 - utils log - INFO - Scraped article: 'Can Tesla's EVs win over India's price-conscious buyers?' (Published: 4 March 2025)
+2025-03-20 14:15:03,317 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:15:03,318 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:15:03,318 - utils log - INFO - Saving analysis results for 'tesla'...
+2025-03-20 14:15:03,319 - utils log - INFO -  Results saved at: /Users/mdaltafshekh/newssummerizer/results/tesla_summary.json
+2025-03-20 14:15:03,319 - utils log - INFO - Generating Hindi TTS audio for: results/tesla_sentiment_hindi.mp3
+2025-03-20 14:15:04,930 - utils log - INFO -  Hindi audio saved at /Users/mdaltafshekh/newssummerizer/results/tesla_sentiment_hindi.mp3
+2025-03-20 14:18:04,571 - utils log - INFO - Extracting topic name from input: tesla
+2025-03-20 14:18:04,574 - utils log - INFO - Sanitized topic name: tesla
+2025-03-20 14:18:11,927 - utils log - INFO - Starting article link extraction for: tesla
+2025-03-20 14:18:11,929 - utils log - INFO - Performing topic-based search for 'tesla' from page 1 to 3.
+2025-03-20 14:18:12,647 - utils log - INFO - Page 1: Found 8 articles.
+2025-03-20 14:18:13,149 - utils log - INFO - Page 2: Found 8 articles.
+2025-03-20 14:18:13,627 - utils log - INFO - Page 3: Found 7 articles.
+2025-03-20 14:18:13,628 - utils log - INFO - Article collection complete. Found 23 articles.
+2025-03-20 14:18:13,630 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c1elw2qppxvo
+2025-03-20 14:18:13,957 - utils log - INFO - Scraped article: 'US launches probe of Tesla's 'smart summon' driverless tech' (Published: 7 January 2025)
+2025-03-20 14:18:13,959 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:18:13,960 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:18:13,960 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:18:13,960 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:18:13,960 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:18:13,961 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c201z4lv5xxo
+2025-03-20 14:18:14,256 - utils log - INFO - Scraped article: 'Musk's Tesla raises concern over Trump tariffs' (Published: 14 March 2025)
+2025-03-20 14:18:14,257 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:18:14,257 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:18:14,257 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:18:14,258 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:18:14,258 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:18:14,258 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cm29x5ke9jdo
+2025-03-20 14:18:14,558 - utils log - INFO - Scraped article: 'Tesla shares slide after Cybercab robotaxi revealed' (Published: 10 October 2024)
+2025-03-20 14:18:14,560 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:18:14,560 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:18:14,560 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:18:14,560 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:18:14,560 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:18:14,560 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cqjdg4x08ylo
+2025-03-20 14:18:14,975 - utils log - INFO - Scraped article: 'Trump says anti-Tesla protesters will face 'hell'' (Published: 11 March 2025)
+2025-03-20 14:18:14,977 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:18:14,977 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:18:14,977 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:18:14,977 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:18:14,977 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:18:14,978 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cwyvql6g9xxo
+2025-03-20 14:18:15,619 - utils log - INFO - Scraped article: 'US probing Elon Musk's Tesla over self-driving systems' (Published: 19 October 2024)
+2025-03-20 14:18:15,621 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:18:15,621 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:18:15,621 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:18:15,621 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:18:15,621 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:18:15,621 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cz5reve8476o
+2025-03-20 14:18:15,992 - utils log - INFO - Scraped article: 'Musk says Tesla to use humanoid robots next year' (Published: 23 July 2024)
+2025-03-20 14:18:15,994 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:18:15,994 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:18:15,994 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:18:15,994 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:18:15,995 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:18:15,995 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/czr7kggvzmmo
+2025-03-20 14:18:16,317 - utils log - INFO - Scraped article: 'Why Tesla, crypto and prisons are Trump trade winners' (Published: 12 November 2024)
+2025-03-20 14:18:16,319 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:18:16,320 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:18:16,320 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:18:16,320 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:18:16,320 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:18:16,320 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cz0lldd30xlo
+2025-03-20 14:18:16,635 - utils log - INFO - Scraped article: 'Driver stopped in Tesla Cybertruck banned in UK' (Published: 17 January 2025)
+2025-03-20 14:18:16,637 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:18:16,637 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:18:16,637 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:18:16,637 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:18:16,637 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:18:16,638 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cv2gyzn7jwro
+2025-03-20 14:18:16,948 - utils log - INFO - Scraped article: 'Tesla faces recall over alerts for unlatched bonnet' (Published: 30 July 2024)
+2025-03-20 14:18:16,950 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:18:16,950 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:18:16,950 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:18:16,950 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:18:16,950 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:18:16,951 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cp08d1nq1y3o
+2025-03-20 14:18:17,252 - utils log - INFO - Scraped article: 'China Tesla rival BYD signs $1bn Turkey plant deal' (Published: 9 July 2024)
+2025-03-20 14:18:17,255 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:18:17,255 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:18:17,255 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:18:17,255 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:18:17,255 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:18:17,256 - utils log - INFO - Saving analysis results for 'tesla'...
+2025-03-20 14:18:17,258 - utils log - INFO -  Results saved at: /Users/mdaltafshekh/newssummerizer/results/tesla_summary.json
+2025-03-20 14:18:17,258 - utils log - INFO - Generating Hindi TTS audio for: results/tesla_sentiment_hindi.mp3
+2025-03-20 14:18:17,899 - utils log - INFO -  Hindi audio saved at /Users/mdaltafshekh/newssummerizer/results/tesla_sentiment_hindi.mp3
+2025-03-20 14:20:32,027 - utils log - INFO - Extracting topic name from input: tesla
+2025-03-20 14:20:32,029 - utils log - INFO - Sanitized topic name: tesla
+2025-03-20 14:20:38,988 - utils log - INFO - Starting article link extraction for: tesla
+2025-03-20 14:20:38,989 - utils log - INFO - Performing topic-based search for 'tesla' from page 1 to 2.
+2025-03-20 14:20:40,135 - utils log - INFO - Page 1: Found 8 articles.
+2025-03-20 14:20:40,621 - utils log - INFO - Page 2: Found 8 articles.
+2025-03-20 14:20:40,621 - utils log - INFO - Article collection complete. Found 16 articles.
+2025-03-20 14:20:40,623 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c1elw2qppxvo
+2025-03-20 14:20:40,989 - utils log - INFO - Scraped article: 'US launches probe of Tesla's 'smart summon' driverless tech' (Published: 7 January 2025)
+2025-03-20 14:21:54,266 - utils log - INFO - Extracting topic name from input: tesla
+2025-03-20 14:21:54,267 - utils log - INFO - Sanitized topic name: tesla
+2025-03-20 14:22:03,779 - utils log - INFO - Starting article link extraction for: tesla
+2025-03-20 14:22:03,781 - utils log - INFO - Performing topic-based search for 'tesla' from page 1 to 2.
+2025-03-20 14:22:07,446 - utils log - INFO - Page 1: Found 8 articles.
+2025-03-20 14:22:08,135 - utils log - INFO - Page 2: Found 8 articles.
+2025-03-20 14:22:08,135 - utils log - INFO - Article collection complete. Found 16 articles.
+2025-03-20 14:22:08,137 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c1elw2qppxvo
+2025-03-20 14:22:08,578 - utils log - INFO - Scraped article: 'US launches probe of Tesla's 'smart summon' driverless tech' (Published: 7 January 2025)
+2025-03-20 14:22:08,580 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:22:08,581 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:22:08,581 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:22:08,581 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:22:08,581 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:22:08,581 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cqjdg4x08ylo
+2025-03-20 14:22:09,044 - utils log - INFO - Scraped article: 'Trump says anti-Tesla protesters will face 'hell'' (Published: 11 March 2025)
+2025-03-20 14:22:09,045 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:22:09,045 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:22:09,045 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:22:09,045 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:22:09,045 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:22:09,046 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cz61vwjel2zo
+2025-03-20 14:22:09,757 - utils log - INFO - Scraped article: 'Tesla's challenges run deeper than 'toxic' controversy around Elon Musk' (Published: 8 hours ago)
+2025-03-20 14:22:09,759 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:22:09,759 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:22:09,759 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:22:09,759 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:22:09,759 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:22:09,759 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cvgd9v3r69qo
+2025-03-20 14:22:10,121 - utils log - INFO - Scraped article: 'Tesla shares slump after European sales fall' (Published: 25 February 2025)
+2025-03-20 14:22:10,123 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:22:10,123 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:22:10,123 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:22:10,123 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:22:10,123 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:22:10,123 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cz0lldd30xlo
+2025-03-20 14:22:10,613 - utils log - INFO - Scraped article: 'Driver stopped in Tesla Cybertruck banned in UK' (Published: 17 January 2025)
+2025-03-20 14:22:10,614 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:22:10,614 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:22:10,614 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:22:10,614 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:22:10,615 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:22:10,615 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/czr7kggvzmmo
+2025-03-20 14:22:11,418 - utils log - INFO - Scraped article: 'Why Tesla, crypto and prisons are Trump trade winners' (Published: 12 November 2024)
+2025-03-20 14:22:11,419 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:22:11,419 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:22:11,419 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:22:11,419 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:22:11,419 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:22:11,420 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cwyvql6g9xxo
+2025-03-20 14:22:11,803 - utils log - INFO - Scraped article: 'US probing Elon Musk's Tesla over self-driving systems' (Published: 19 October 2024)
+2025-03-20 14:22:11,805 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:22:11,805 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:22:11,805 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:22:11,805 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:22:11,805 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:22:11,805 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c36edjp1l9ko
+2025-03-20 14:22:12,119 - utils log - INFO - Scraped article: 'Tesla sales stall as China's BYD closes in' (Published: 2 January 2025)
+2025-03-20 14:22:12,121 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:22:12,121 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:22:12,121 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:22:12,121 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:22:12,121 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:22:12,121 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c201z4lv5xxo
+2025-03-20 14:22:12,586 - utils log - INFO - Scraped article: 'Musk's Tesla raises concern over Trump tariffs' (Published: 14 March 2025)
+2025-03-20 14:22:12,587 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:22:12,588 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:22:12,588 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:22:12,588 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:22:12,588 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:22:12,588 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/crkn28dpl4no
+2025-03-20 14:22:14,066 - utils log - INFO - Scraped article: 'Can Tesla's EVs win over India's price-conscious buyers?' (Published: 4 March 2025)
+2025-03-20 14:22:14,067 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:22:14,067 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:22:14,068 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:22:14,068 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:22:14,068 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:22:14,069 - utils log - INFO - Generating Hindi TTS audio for: results/tesla_sentiment_hindi.mp3
+2025-03-20 14:22:16,189 - utils log - INFO -  Hindi audio saved at /Users/mdaltafshekh/newssummerizer/results/tesla_sentiment_hindi.mp3
+2025-03-20 14:23:28,533 - utils log - INFO - Extracting topic name from input: tesla
+2025-03-20 14:23:28,537 - utils log - INFO - Sanitized topic name: tesla
+2025-03-20 14:23:35,127 - utils log - INFO - Starting article link extraction for: tesla
+2025-03-20 14:23:35,128 - utils log - INFO - Performing topic-based search for 'tesla' from page 1 to 2.
+2025-03-20 14:23:35,965 - utils log - INFO - Page 1: Found 8 articles.
+2025-03-20 14:23:36,419 - utils log - INFO - Page 2: Found 8 articles.
+2025-03-20 14:23:36,420 - utils log - INFO - Article collection complete. Found 16 articles.
+2025-03-20 14:23:36,422 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cp8vd0j5zk2o
+2025-03-20 14:23:36,704 - utils log - INFO - Scraped article: 'Vehicles damaged at Belfast Tesla dealership' (Published: 17 March 2025)
+2025-03-20 14:23:36,705 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:23:36,706 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:23:36,706 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:23:36,706 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:23:36,706 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:23:36,706 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/crkn28dpl4no
+2025-03-20 14:23:37,040 - utils log - INFO - Scraped article: 'Can Tesla's EVs win over India's price-conscious buyers?' (Published: 4 March 2025)
+2025-03-20 14:23:37,042 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:23:37,042 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:23:37,042 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:23:37,042 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:23:37,042 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:23:37,043 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cd0en9mn8mko
+2025-03-20 14:23:37,322 - utils log - INFO - Scraped article: 'Elon Musk's Tesla lobbied UK to charge petrol drivers more' (Published: 11 December 2024)
+2025-03-20 14:23:37,324 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:23:37,324 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:23:37,324 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:23:37,324 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:23:37,324 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:23:37,324 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cvgm21zjggro
+2025-03-20 14:23:37,593 - utils log - INFO - Scraped article: 'Scattered anti-Musk protests target Tesla dealerships' (Published: 15 February 2025)
+2025-03-20 14:23:37,595 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:23:37,595 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:23:37,595 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:23:37,595 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:23:37,595 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:23:37,596 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c36edjp1l9ko
+2025-03-20 14:23:37,942 - utils log - INFO - Scraped article: 'Tesla sales stall as China's BYD closes in' (Published: 2 January 2025)
+2025-03-20 14:23:37,944 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:23:37,944 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:23:37,944 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:23:37,944 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:23:37,944 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:23:37,945 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c4gm9j11mvdo
+2025-03-20 14:23:38,247 - utils log - INFO - Scraped article: 'China's BYD overtakes Tesla revenue for first time' (Published: 31 October 2024)
+2025-03-20 14:23:38,248 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:23:38,249 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:23:38,249 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:23:38,249 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:23:38,249 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:23:38,249 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cz61vwjel2zo
+2025-03-20 14:23:38,571 - utils log - INFO - Scraped article: 'Tesla's challenges run deeper than 'toxic' controversy around Elon Musk' (Published: 8 hours ago)
+2025-03-20 14:23:38,573 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:23:38,574 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:23:38,574 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:23:38,574 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:23:38,574 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:23:38,574 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c1elw2qppxvo
+2025-03-20 14:23:38,855 - utils log - INFO - Scraped article: 'US launches probe of Tesla's 'smart summon' driverless tech' (Published: 7 January 2025)
+2025-03-20 14:23:38,857 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:23:38,857 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:23:38,857 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:23:38,857 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:23:38,857 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:23:38,857 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c5yr90lmjpno
+2025-03-20 14:23:39,149 - utils log - INFO - Scraped article: 'VW launches $5.8bn tie-up with Tesla rival Rivian' (Published: 13 November 2024)
+2025-03-20 14:23:39,151 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:23:39,151 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:23:39,151 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:23:39,151 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:23:39,151 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:23:39,152 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cz0lldd30xlo
+2025-03-20 14:23:39,457 - utils log - INFO - Scraped article: 'Driver stopped in Tesla Cybertruck banned in UK' (Published: 17 January 2025)
+2025-03-20 14:23:39,459 - utils log - INFO - Starting sentiment analysis for text: ERROR
+2025-03-20 14:23:39,459 - utils log - INFO - Prompt prepared. Sending request to ChatGroq...
+2025-03-20 14:23:39,459 - utils log - ERROR - Error during sentiment analysis: name 'chat' is not defined
+2025-03-20 14:23:39,459 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:23:39,459 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:23:39,460 - utils log - INFO - Generating Hindi TTS audio for: results/tesla_sentiment_hindi.mp3
+2025-03-20 14:23:40,452 - utils log - INFO -  Hindi audio saved at /Users/mdaltafshekh/newssummerizer/results/tesla_sentiment_hindi.mp3
+2025-03-20 14:25:52,501 - utils log - INFO - Extracting topic name from input: tesla
+2025-03-20 14:25:52,502 - utils log - INFO - Sanitized topic name: tesla
+2025-03-20 14:25:56,959 - utils log - INFO - Starting article link extraction for: tesla
+2025-03-20 14:25:56,959 - utils log - INFO - Performing topic-based search for 'tesla' from page 1 to 2.
+2025-03-20 14:25:57,514 - utils log - INFO - Page 1: Found 8 articles.
+2025-03-20 14:25:58,013 - utils log - INFO - Page 2: Found 8 articles.
+2025-03-20 14:25:58,013 - utils log - INFO - Article collection complete. Found 16 articles.
+2025-03-20 14:25:58,015 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cvgd9v3r69qo
+2025-03-20 14:25:58,486 - utils log - INFO - Scraped article: 'Tesla shares slump after European sales fall' (Published: 25 February 2025)
+2025-03-20 14:25:58,488 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:25:58,489 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:25:58,489 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cd0en9mn8mko
+2025-03-20 14:25:58,911 - utils log - INFO - Scraped article: 'Elon Musk's Tesla lobbied UK to charge petrol drivers more' (Published: 11 December 2024)
+2025-03-20 14:25:58,913 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:25:58,913 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:25:58,913 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c5yr90lmjpno
+2025-03-20 14:25:59,219 - utils log - INFO - Scraped article: 'VW launches $5.8bn tie-up with Tesla rival Rivian' (Published: 13 November 2024)
+2025-03-20 14:25:59,220 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:25:59,220 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:25:59,221 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cwyvql6g9xxo
+2025-03-20 14:25:59,532 - utils log - INFO - Scraped article: 'US probing Elon Musk's Tesla over self-driving systems' (Published: 19 October 2024)
+2025-03-20 14:25:59,534 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:25:59,534 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:25:59,534 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cz61vwjel2zo
+2025-03-20 14:25:59,844 - utils log - INFO - Scraped article: 'Tesla's challenges run deeper than 'toxic' controversy around Elon Musk' (Published: 8 hours ago)
+2025-03-20 14:25:59,846 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:25:59,846 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:25:59,846 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c201z4lv5xxo
+2025-03-20 14:26:00,143 - utils log - INFO - Scraped article: 'Musk's Tesla raises concern over Trump tariffs' (Published: 14 March 2025)
+2025-03-20 14:26:00,145 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:26:00,145 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:26:00,145 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c36edjp1l9ko
+2025-03-20 14:26:00,414 - utils log - INFO - Scraped article: 'Tesla sales stall as China's BYD closes in' (Published: 2 January 2025)
+2025-03-20 14:26:00,416 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:26:00,416 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:26:00,416 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c4gm9j11mvdo
+2025-03-20 14:26:00,703 - utils log - INFO - Scraped article: 'China's BYD overtakes Tesla revenue for first time' (Published: 31 October 2024)
+2025-03-20 14:26:00,705 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:26:00,705 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:26:00,705 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cnvze9dzq8vo
+2025-03-20 14:26:01,000 - utils log - INFO - Scraped article: 'Musk's Tesla facilities in US face 'Takedown' protests' (Published: 10 March 2025)
+2025-03-20 14:26:01,002 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:26:01,002 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:26:01,002 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cz0lldd30xlo
+2025-03-20 14:26:01,284 - utils log - INFO - Scraped article: 'Driver stopped in Tesla Cybertruck banned in UK' (Published: 17 January 2025)
+2025-03-20 14:26:01,285 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:26:01,285 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:26:01,286 - utils log - INFO - Saving analysis results for 'tesla'...
+2025-03-20 14:26:01,287 - utils log - INFO -  Results saved at: /Users/mdaltafshekh/newssummerizer/results/tesla_summary.json
+2025-03-20 14:26:01,287 - utils log - INFO - Generating Hindi TTS audio for: results/tesla_sentiment_hindi.mp3
+2025-03-20 14:26:02,386 - utils log - INFO -  Hindi audio saved at /Users/mdaltafshekh/newssummerizer/results/tesla_sentiment_hindi.mp3
+2025-03-20 14:45:04,652 - utils log - INFO - Extracting topic name from input: tesla
+2025-03-20 14:45:04,655 - utils log - INFO - Sanitized topic name: tesla
+2025-03-20 14:45:09,167 - utils log - INFO - Starting article link extraction for: tesla
+2025-03-20 14:45:09,168 - utils log - INFO - Performing topic-based search for 'tesla' from page 1 to 2.
+2025-03-20 14:45:10,050 - utils log - INFO - Page 1: Found 8 articles.
+2025-03-20 14:45:10,617 - utils log - INFO - Page 2: Found 8 articles.
+2025-03-20 14:45:10,618 - utils log - INFO - Article collection complete. Found 16 articles.
+2025-03-20 14:45:10,620 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c201z4lv5xxo
+2025-03-20 14:45:10,945 - utils log - INFO - Scraped article: 'Musk's Tesla raises concern over Trump tariffs' (Published: 14 March 2025)
+2025-03-20 14:45:10,948 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:45:10,948 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:45:10,948 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cz61vwjel2zo
+2025-03-20 14:45:11,293 - utils log - INFO - Scraped article: 'Tesla's challenges run deeper than 'toxic' controversy around Elon Musk' (Published: 9 hours ago)
+2025-03-20 14:45:11,295 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:45:11,295 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:45:11,296 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c4gm9j11mvdo
+2025-03-20 14:45:11,655 - utils log - INFO - Scraped article: 'China's BYD overtakes Tesla revenue for first time' (Published: 31 October 2024)
+2025-03-20 14:45:11,657 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:45:11,657 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:45:11,657 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c1elw2qppxvo
+2025-03-20 14:45:12,016 - utils log - INFO - Scraped article: 'US launches probe of Tesla's 'smart summon' driverless tech' (Published: 7 January 2025)
+2025-03-20 14:45:12,018 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:45:12,018 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:45:12,018 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/czr7kggvzmmo
+2025-03-20 14:45:12,391 - utils log - INFO - Scraped article: 'Why Tesla, crypto and prisons are Trump trade winners' (Published: 12 November 2024)
+2025-03-20 14:45:12,393 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:45:12,393 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:45:12,393 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cwyvql6g9xxo
+2025-03-20 14:45:12,833 - utils log - INFO - Scraped article: 'US probing Elon Musk's Tesla over self-driving systems' (Published: 19 October 2024)
+2025-03-20 14:45:12,835 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:45:12,835 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:45:12,835 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cnvze9dzq8vo
+2025-03-20 14:45:13,282 - utils log - INFO - Scraped article: 'Musk's Tesla facilities in US face 'Takedown' protests' (Published: 10 March 2025)
+2025-03-20 14:45:13,284 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:45:13,284 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:45:13,284 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c36edjp1l9ko
+2025-03-20 14:45:13,745 - utils log - INFO - Scraped article: 'Tesla sales stall as China's BYD closes in' (Published: 2 January 2025)
+2025-03-20 14:45:13,747 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:45:13,747 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:45:13,747 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/c5yr90lmjpno
+2025-03-20 14:45:14,195 - utils log - INFO - Scraped article: 'VW launches $5.8bn tie-up with Tesla rival Rivian' (Published: 13 November 2024)
+2025-03-20 14:45:14,197 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:45:14,197 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:45:14,197 - utils log - INFO - Fetching content from: https://www.bbc.co.uk/news/articles/cvgd9v3r69qo
+2025-03-20 14:45:14,541 - utils log - INFO - Scraped article: 'Tesla shares slump after European sales fall' (Published: 25 February 2025)
+2025-03-20 14:45:14,543 - utils log - INFO - Extracting topics from summary...
+2025-03-20 14:45:14,543 - utils log - WARNING - No topics identified in the summary.
+2025-03-20 14:45:14,543 - utils log - INFO - Saving analysis results for 'tesla'...
+2025-03-20 14:45:14,545 - utils log - INFO -  Results saved at: /Users/mdaltafshekh/newssummerizer/results/tesla_summary.json
+2025-03-20 14:45:14,546 - utils log - INFO - Generating Hindi TTS audio for: results/tesla_sentiment_hindi.mp3
+2025-03-20 14:45:15,676 - utils log - INFO -  Hindi audio saved at /Users/mdaltafshekh/newssummerizer/results/tesla_sentiment_hindi.mp3

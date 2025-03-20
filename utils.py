@@ -10,9 +10,23 @@ from tqdm import tqdm
 from pathlib import Path
 import logging
 from collections import Counter
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_groq import ChatGroq
+from urllib.parse import quote
+from collections import Counter
+from dotenv import load_dotenv
+import os
+
+# Load environment variables from .env
+load_dotenv()
+
 # Setup logging
 # Create root path
 # Create root path
+
+# Initialize ChatGroq
+groq_api_key = os.getenv("GROQ_API_KEY")
+chat = ChatGroq(temperature=0, model_name="mixtral-8x7b-32768", groq_api_key=groq_api_key)
 root_path = Path(__file__).parent
 log_dir = root_path / 'log'
 log_dir.mkdir(parents=True, exist_ok=True)  # Ensures the directory exists
@@ -33,7 +47,7 @@ file_handler = logging.FileHandler(file_handler_path)
 file_formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 file_handler.setFormatter(file_formatter)
 logger.addHandler(file_handler)
-
+'''
 try:
     sentiment_analyzer = pipeline("sentiment-analysis")
     logger.info("Sentiment analysis pipeline loaded successfully.")
@@ -46,7 +60,8 @@ try:
     logger.info("Summarization pipeline loaded successfully.")
 except Exception as e:
     logger.error(f"Failed to load summarization pipeline: {e}")
-    raise
+    raise'''
+    
 def extract_topic_name(input_text: str) -> str:
     """
     Extracts a clean topic name by removing special characters.
@@ -190,7 +205,7 @@ def get_article_content(article_url: str) -> tuple:
         return "Error fetching article", "N/A", ""
     
     
-def summarize_text(text: str, desired_lines: int = 3) -> str:
+'''def summarize_text(text: str, desired_lines: int = 3) -> str:
     """
     Summarizes long text into a concise summary using a transformer-based model.
     
@@ -227,6 +242,31 @@ def summarize_text(text: str, desired_lines: int = 3) -> str:
     except Exception as e:
         logger.error(f"Error during summarization: {e}")
         return "Summary generation failed due to an unexpected error."
+'''
+def summarize_text(text: str, desired_lines: int = 3) -> str:
+    """
+    Summarizes text using LangChain ChatGroq.
+    """
+    prompt_template = ChatPromptTemplate.from_template(
+        "Summarize the following news article in approximately {lines} sentences:\n\n{text}\n\nSummary:"
+    )
+    prompt = prompt_template.format_messages(lines=desired_lines, text=text)
+    response = chat.invoke(prompt)
+    return response.content.strip()
+
+def analyze_sentiment(text: str) -> dict:
+    """
+    Analyzes sentiment using LangChain ChatGroq.
+    """
+    prompt_template = ChatPromptTemplate.from_template(
+        "Classify the sentiment (Positive, Negative, or Neutral) of the following text:\n\n{text}\n\nSentiment:"
+    )
+    prompt = prompt_template.format_messages(text=text)
+    response = chat.invoke(prompt)
+    sentiment = response.content.strip().split()[0].capitalize()
+    if sentiment not in ["Positive", "Neutral", "Negative"]:
+        sentiment = "Neutral"
+    return {"label": sentiment}
 
 import logging
 import re
@@ -407,7 +447,7 @@ def analyze_articles(links: list, company_name: str, desired_lines: int = 3) -> 
             headline, pub_date, text = get_article_content(link)
             combined_text = f"{headline}. {text}"
             summary = summarize_text(combined_text, desired_lines)
-            sentiment = sentiment_analyzer(summary)[0]
+            sentiment = analyze_sentiment(summary)
             topics = extract_topics(summary)
 
             article_data = {
@@ -480,3 +520,19 @@ def analyze_articles(links: list, company_name: str, desired_lines: int = 3) -> 
     logging.info(json.dumps(result, indent=4, ensure_ascii=False))
 
     return result
+if __name__ == "__main__":
+   ''' query = input("👉 Enter a BBC topic URL or keyword: ").strip()
+    company = extract_topic_name(query)
+    lines = int(input("👉 How many lines of summary per article? (default: 3): ") or 3)
+    start_page = int(input("👉 Start page number (default: 1): ") or 1)
+    end_page = int(input("👉 End page number (default: 3): ") or 3)
+
+    article_links = get_article_links(query, start_page, end_page, min_articles=10)
+    print(f"✅ Found {len(article_links)} articles.")
+
+    if article_links:
+        analyze_articles(article_links, company, lines)
+    else:
+        print("⚠️ No articles found.")'''
+pass      
+        
