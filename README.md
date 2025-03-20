@@ -169,7 +169,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ### 5. Run the FastAPI Server
 ```bash
-uvicorn main:app --reload
+uvicorn api:app --reload
 ```
 
 ### 6. Run the Streamlit App (Optional)
