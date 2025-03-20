@@ -46,7 +46,7 @@ This application is built to serve as a tool for researchers, media analysts, an
 | **Backend**          | FastAPI, BeautifulSoup, LangChain                               |
 | **LLM**              | GROQ API (using **Mixtral** or **LLaMA2** models via LangChain) |
 | **Frontend**         | Streamlit                                                       |
-| **NLP Features**    | LangChain Summarization + Sentiment Analysis                    |
+| **NLP Features**    | LangChain Summarization + Sentiment Analysis + gtts                   |
 
 ---
 
