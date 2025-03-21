@@ -26,7 +26,7 @@ This application is built to serve as a tool for researchers, media analysts, an
 ### Technical Features:
 - Built with **FastAPI** and **Streamlit** for a robust backend and user-friendly frontend.
 - Integrated with **LangChain** for advanced AI functionalities.
-- Supports **GROQ API** for high-performance AI operations.
+- Supports **GROQ API(llama-3.3-70b-versatile model)** for high-performance AI operations.
 
 ---
 
