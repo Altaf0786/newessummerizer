@@ -176,7 +176,7 @@ uvicorn api:app --reload
 ```bash
 streamlit run app.py
 ```
-### Note: Both commands should be run in separate terminals.
+
 
 
 ## 📦 Dependencies
