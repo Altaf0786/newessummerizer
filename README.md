@@ -176,8 +176,8 @@ uvicorn api:app --reload
 ```bash
 streamlit run app.py
 ```
-### NOTE both commond run in sperate terminal
----
+### Note: Both commands should be run in separate terminals.
+
 
 ## 📦 Dependencies
 
