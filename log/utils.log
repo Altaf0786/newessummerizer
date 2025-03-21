@@ -1,5 +1,6 @@
 2025-03-20 08:15:36,185 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
 2025-03-20 08:15:44,336 - utils log - INFO - Summarization pipeline loaded successfully.
+<<<<<<< Updated upstream
 2025-03-20 08:33:47,635 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
 2025-03-20 08:33:55,703 - utils log - INFO - Summarization pipeline loaded successfully.
 2025-03-20 08:39:40,261 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
@@ -678,3 +679,9 @@
 2025-03-20 14:45:14,545 - utils log - INFO -  Results saved at: /Users/mdaltafshekh/newssummerizer/results/tesla_summary.json
 2025-03-20 14:45:14,546 - utils log - INFO - Generating Hindi TTS audio for: results/tesla_sentiment_hindi.mp3
 2025-03-20 14:45:15,676 - utils log - INFO -  Hindi audio saved at /Users/mdaltafshekh/newssummerizer/results/tesla_sentiment_hindi.mp3
+=======
+2025-03-21 16:38:21,695 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-21 16:38:30,212 - utils log - INFO - Summarization pipeline loaded successfully.
+2025-03-21 16:39:59,163 - utils log - INFO - Sentiment analysis pipeline loaded successfully.
+2025-03-21 16:40:06,237 - utils log - INFO - Summarization pipeline loaded successfully.
+>>>>>>> Stashed changes
