@@ -26,7 +26,8 @@ load_dotenv()
 
 # Initialize ChatGroq
 groq_api_key = os.getenv("GROQ_API_KEY")
-chat = ChatGroq(temperature=0, model_name="mixtral-8x7b-32768", groq_api_key=groq_api_key)
+chat = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile", groq_api_key=groq_api_key)
+
 root_path = Path(__file__).parent
 log_dir = root_path / 'log'
 log_dir.mkdir(parents=True, exist_ok=True)  # Ensures the directory exists
@@ -262,11 +263,28 @@ def analyze_sentiment(text: str) -> dict:
         "Classify the sentiment (Positive, Negative, or Neutral) of the following text:\n\n{text}\n\nSentiment:"
     )
     prompt = prompt_template.format_messages(text=text)
+    
+    # Ensure the chat.invoke is working as expected
     response = chat.invoke(prompt)
-    sentiment = response.content.strip().split()[0].capitalize()
-    if sentiment not in ["Positive", "Neutral", "Negative"]:
+    
+    # Debugging: Print the full response to check its structure
+    print("Response:", response.content)
+    
+    # Try extracting the sentiment more robustly
+    sentiment = response.content.strip().lower()  # Case insensitive matching
+    
+    # Matching sentiment labels
+    if "positive" in sentiment:
+        sentiment = "Positive"
+    elif "negative" in sentiment:
+        sentiment = "Negative"
+    elif "neutral" in sentiment:
         sentiment = "Neutral"
+    else:
+        sentiment = "No sentiment"
+
     return {"label": sentiment}
+
 
 import logging
 import re
