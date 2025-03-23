@@ -1,6 +1,7 @@
 ### Architecture Diagram
 
-![image](https://github.com/user-attachments/assets/20fe20a8-ee72-4ce8-94c8-a9a2f8d3e687)
+![68778D15-9E84-4F56-BBFA-0BD4B9D3B977_1_105_c](https://github.com/user-attachments/assets/e9e6500c-a202-4479-bedb-06295c931193)
+
 
 
 # 📚 BBC News Summarizer & Sentiment Analyzer
