@@ -151,7 +151,7 @@ sentiment_analyzer = pipeline("sentiment-analysis")
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Altaf0786/newessummerizer.git
-newessummerizer
+cd newessummerizer
 ```
 
 ### 2. Create a Virtual Environment
